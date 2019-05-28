@@ -4,7 +4,7 @@
   "link": "http://skyhive.xyz",
   "repo": "duckdiscord/duckdiscord.github.io",
   "owner": "duckdiscord",
-  "statusRepo": "orels1/status.cogs.red",
+  "statusRepo": "duckdiscord/duckdiscord.github.io",
   "services": ["Network", "Proxy", "Websites"],
   "statuses": {
     "operational": "#2ecc71",
