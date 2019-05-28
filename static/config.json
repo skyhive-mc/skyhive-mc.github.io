@@ -1,11 +1,11 @@
 {
-  "title": "Cogs.Red Status",
-  "name": "cogs.red",
-  "link": "http://cogs.red",
-  "repo": "orels1/Red-Portal",
-  "owner": "orels1",
+  "title": "SkyHive Status Page",
+  "name": "SkyHive",
+  "link": "http://skyhive.xyz",
+  "repo": "duckdiscord/duckdiscord.github.io",
+  "owner": "duckdiscord",
   "statusRepo": "orels1/status.cogs.red",
-  "services": ["API", "Website", "Parser"],
+  "services": ["Network", "Proxy", "Websites"],
   "statuses": {
     "operational": "#2ecc71",
     "degraded": "#f39c12",
@@ -16,5 +16,5 @@
     "degraded": "Degraded perfomance",
     "outage": "Major outage"
   },
-  "footer": "Hosted with ❤️ by GitHub. [orels1/statusreport](http://github.com/orels1/statusreport)"
+  "footer": "Created with ❤️ on GitHub. [orels1/statusreport]"
 }
