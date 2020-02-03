@@ -1,10 +1,10 @@
 {
   "title": "SkyHive Status Page",
   "name": "SkyHive",
-  "link": "http://skyhive.xyz",
-  "repo": "duckdiscord/duckdiscord.github.io",
-  "owner": "duckdiscord",
-  "statusRepo": "duckdiscord/duckdiscord.github.io",
+  "link": "http://skyhive.gg",
+  "repo": "skyhive-mc/skyhive-mc.github.io",
+  "owner": "skyhive-mc",
+  "statusRepo": "skyhive-mc/skyhive-mc.github.io",
   "services": ["Network", "Proxy", "Websites"],
   "statuses": {
     "operational": "#2ecc71",
